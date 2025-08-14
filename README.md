@@ -24,7 +24,7 @@ I believe in learning by doing — every project I create is a step toward becom
 `Node.js` `Express.js` `MongoDB` 
 
 ## 🌱 Currently Learning  
-- **Backend Optimization** for MERN apps  
+- **Backend** for MERN apps  
 - **Advanced JavaScript** concepts  
 - **Data Structures & Algorithms** for interviews  
 
